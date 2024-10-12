@@ -1,21 +1,21 @@
 {
-  "name": "parcel-template",
+  "name": "promise-method-hw",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://RomanZarazovskii.github.io/parcel-template",
+  "homepage": "https://RomanZarazovskii.github.io/promise-method-hw",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-template/"
+    "build": "parcel build src/*.html --public-url /promise-method-hw/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RomanZarazovskii/parcel-template.git"
+    "url": "git+https://github.com/RomanZarazovskii/promise-method-hw.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RomanZarazovskii/parcel-template/issues"
+    "url": "https://github.com/RomanZarazovskii/promise-method-hw/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
